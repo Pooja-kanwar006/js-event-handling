@@ -1,0 +1,11 @@
+.main{
+height: 100%;
+width: 100%;
+background-color: bisque;
+}
+ul{
+color: rgb(197, 35, 35);
+}
+.lt{
+text-decoration: line-through;
+}
