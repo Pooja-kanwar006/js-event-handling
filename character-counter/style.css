@@ -1,0 +1,31 @@
+
+body{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+.main{
+
+height: 280px;
+width: 345px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+justify-items: center;
+margin-top: 34vh;
+margin-left: 34vw;
+background-color: aqua;
+}   
+textarea{
+width: 340px;
+height: 280px;
+}
+.submit{
+margin-top: 0;
+position: relative;
+left: 90px;
+top: 5px;
+width: 140px;
+height:60px;
+font-size:30px;
+border-radius: 19%;
+}
