@@ -1,11 +1,45 @@
-.main{
-height: 100%;
-width: 100%;
-background-color: bisque;
+.main {
+  height: 100%;
+  width: 100%;
+  background-color: bisque;
 }
-ul{
-color: rgb(197, 35, 35);
+ul {
+  color: rgb(197, 35, 35);
 }
-.lt{
-text-decoration: line-through;
+.lt {
+  text-decoration: line-through;
+}
+
+h3,
+.a {
+font-weight: 700;
+font-size: 30px;
+  margin-top: 150px;
+  margin-left: 100px;
+  margin-bottom: 0px;
+  height: 36px;
+  width: 50vw;
+  border: solid black 3px;
+  background-color: rgb(83, 204, 83);
+}
+.a {
+  height: 60vh;
+  width: 50vw;
+  background-color: rgb(103, 72, 132);
+  border: 3px black solid;
+  margin-top: 0px;
+}
+.b {
+  height: 40vh;
+  width: 40vw;
+  background-color: rgb(37, 104, 70);
+  border: 3px black solid;
+  margin-top: 0px;
+}
+.c {
+  height: 30vh;
+  width: 30vw;
+  background-color: rgb(69, 122, 50);
+  border: 3px black solid;
+  margin-top: 0px;
 }
