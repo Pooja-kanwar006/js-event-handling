@@ -1,0 +1,22 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+
+form{
+margin-top: 150px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+flex-direction: column;
+gap: 10px;
+}
+ .inline{
+ display: inline;
+ margin: 10px;
+ }
+
+ .warn{
+ display: none;
+ }
