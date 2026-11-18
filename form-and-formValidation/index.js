@@ -7,6 +7,7 @@ let dis = document.querySelector(".name-warning");
 form.addEventListener("submit", (e) => {
   e.preventDefault();
 //conditions for name
+console.log(email);
   let val = e.target[0].value;
   console.log(e.target);
   if ((val.length) < 3) {
